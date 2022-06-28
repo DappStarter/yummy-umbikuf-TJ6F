@@ -1,0 +1,8 @@
+{
+    "name": "Karikature",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/react": true
+    }
+}
